@@ -1,0 +1,10 @@
+﻿  Simplex.cpp
+C:\Users\z.kate\source\repos\MetOpt_Simplex_lab1\Simplex.cpp(25,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\z.kate\source\repos\MetOpt_Simplex_lab1\Simplex.cpp(171,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\z.kate\source\repos\MetOpt_Simplex_lab1\Simplex.cpp(173,20): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  main.cpp
+C:\Users\z.kate\source\repos\MetOpt_Simplex_lab1\Simplex.cpp(25,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\z.kate\source\repos\MetOpt_Simplex_lab1\Simplex.cpp(171,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\z.kate\source\repos\MetOpt_Simplex_lab1\Simplex.cpp(173,20): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  Создание кода...
+  MetOpt_Simplex_lab1.vcxproj -> C:\Users\z.kate\source\repos\MetOpt_Simplex_lab1\x64\Debug\MetOpt_Simplex_lab1.exe
