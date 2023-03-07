@@ -1,0 +1,27 @@
+﻿  Cell.cpp
+  FindPotentials.cpp
+C:\Users\z.kate\source\GitHubRepos\OptimizationMethods\Potential_Method\GaussMethod.cpp(31,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\z.kate\source\GitHubRepos\OptimizationMethods\Potential_Method\FindPotentials.cpp(76,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  GaussMethod.cpp
+C:\Users\z.kate\source\GitHubRepos\OptimizationMethods\Potential_Method\GaussMethod.cpp(31,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+C:\Users\z.kate\source\GitHubRepos\OptimizationMethods\Potential_Method\GaussMethod.cpp(31,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\z.kate\source\GitHubRepos\OptimizationMethods\Potential_Method\FindPotentials.cpp(76,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\z.kate\source\GitHubRepos\OptimizationMethods\Potential_Method\PotentialsMethod.cpp(294,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\z.kate\source\GitHubRepos\OptimizationMethods\Potential_Method\PotentialsMethod.cpp(296,20): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\z.kate\source\GitHubRepos\OptimizationMethods\Potential_Method\PotentialsMethod.cpp(297,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  NorthWestMethod.cpp
+  PotentialMethod.cpp
+C:\Users\z.kate\source\GitHubRepos\OptimizationMethods\Potential_Method\GaussMethod.cpp(31,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\z.kate\source\GitHubRepos\OptimizationMethods\Potential_Method\FindPotentials.cpp(76,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\z.kate\source\GitHubRepos\OptimizationMethods\Potential_Method\PotentialMethod.cpp(190,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\z.kate\source\GitHubRepos\OptimizationMethods\Potential_Method\PotentialMethod.cpp(192,20): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\z.kate\source\GitHubRepos\OptimizationMethods\Potential_Method\PotentialMethod.cpp(193,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  PotentialsMethod.cpp
+C:\Users\z.kate\source\GitHubRepos\OptimizationMethods\Potential_Method\GaussMethod.cpp(31,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\z.kate\source\GitHubRepos\OptimizationMethods\Potential_Method\FindPotentials.cpp(76,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\z.kate\source\GitHubRepos\OptimizationMethods\Potential_Method\PotentialsMethod.cpp(294,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\z.kate\source\GitHubRepos\OptimizationMethods\Potential_Method\PotentialsMethod.cpp(296,20): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\z.kate\source\GitHubRepos\OptimizationMethods\Potential_Method\PotentialsMethod.cpp(297,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Potential_Method.vcxproj -> C:\Users\z.kate\source\GitHubRepos\OptimizationMethods\Potential_Method\x64\Debug\Potential_Method.exe
